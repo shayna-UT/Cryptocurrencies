@@ -4,6 +4,10 @@
 #### Summary
 Data preprocessing tasks have been performed to prepare the cryptocurrency data for dimensions reduction with PCA and clustering using K-means. The data dimensions were then reduced using PCA algorithms from sklearn. Next, clusters were predicted using cryptocurrencies and the K-means algorithm from sklearn. Finally, the below plots and data table were created to present the results. 
 
+#### Use hvplot.table to create a data table with all the current tradable cryptocurrencies
+#### Preview:
+<img src="images/hvplot_table.PNG" width="600">
+
 #### 3D scatter plot using Plotly Express to plot the clusters
 <img src="images/px_scatter_3d.PNG" height="300">
 
